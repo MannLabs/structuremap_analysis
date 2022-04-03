@@ -9,4 +9,6 @@ The actual analysis is performed in multiple jupyter notebooks:
 * PTM data processing and import: notebooks in [ptm_data_import](https://github.com/MannLabs/structuremap_analysis/blob/master/ptm_data_import)
 * Benchmark for IDR prediction: [IDR_benchmark.ipynb](https://github.com/MannLabs/structuremap_analysis/blob/master/IDR_benchmark.ipynb)
 * Main structuremap analysis: [data_analysis_structuremap.ipynb](https://github.com/MannLabs/structuremap_analysis/blob/master/data_analysis_structuremap.ipynb)
+
+  This notebook is also available as [HTML page](https://github.com/MannLabs/structuremap_analysis/blob/master/data_analysis_structuremap.html), which displays all figures. 
 * Proteasome inhibitor usage in ubiquitination datasets on PhosphoSitePlus: [PSP_Ubi.ipynb](https://github.com/MannLabs/structuremap_analysis/blob/master/PSP_Ubi.ipynb)
