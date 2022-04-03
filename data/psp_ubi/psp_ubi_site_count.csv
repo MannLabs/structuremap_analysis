@@ -1,0 +1,13 @@
+PUBMEDID	SITE COUNT	NAME	AUTHOR	YEAR	Proteasome inhibitor	untreated	paper
+29967540	67855	UbiSite approach for comprehensive mapping of lysine and N-terminal ubiquitination sites	Akimov et al.	2018	yes	yes	Akimov et al. 2018
+23266961	38477	Refined preparation and use of anti-diglycine remnant (K-_-GG) antibody enables routine quantification of 10,000s of ubiquitination sites in single proteomics experiments	Udeshi et al.	2013	yes	yes	Udeshi et al. 2013
+22790023	22051	Proteomic analyses reveal divergent ubiquitylation site patterns in murine tissues	Wagner et al.	2012	no	yes	Wagner et al. 2012
+21906983	18242	Systematic and quantitative assessment of the ubiquitin-modified proteome	Kim et al.	2011	yes	yes	Kim et al. 2011
+23749302	15509	Integrated proteomic analysis of post-translational modifications by serial enrichment	Mertins et al.	2013	yes	yes	Mertins et al. 2013
+21890473	11406	A proteome-wide, quantitative survey of in vivo ubiquitylation sites reveals widespread regulatory roles	Wagner et al.	2011	yes	yes	Wagner et al. 2011
+27184836	8508	Multiomic Analysis of the UV-Induced DNA Damage Response	Boing et al.	2016	yes	yes	Boing et al. 2016
+23000965	7523	Systems-wide analysis of ubiquitylation dynamics reveals a key role for PAF15 ubiquitylation in DNA-damage bypass	Povlsen	2012	no	yes	Povlsen 2012
+29079793	6982	Site-specific identification and quantitation of endogenous SUMO modifications under native conditions	Lumpkin et al.	2017	yes	yes	Lumpkin et al. 2017
+25825284	1356	Suberoylanilide hydroxamic acid treatment reveals crosstalks among proteome, ubiquitylome and acetylome in non-small cell lung cancer A549 cell line	Wu et al.	2015	no	yes	Wu et al. 2015
+21139048	1047	Mass spectrometric analysis of lysine ubiquitylation reveals promiscuity at site level	Danielsen et al.	2011	no	yes	Danielsen et al. 2011
+0	2981	677 papers	677 papers	 	mixed	NA	677 papers  

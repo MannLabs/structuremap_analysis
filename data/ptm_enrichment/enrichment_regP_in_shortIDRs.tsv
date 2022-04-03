@@ -1,0 +1,2 @@
+quality_cutoff	ptm	roi	n_aa_ptm	n_aa_roi	n_ptm_in_roi	n_ptm_not_in_roi	n_naked_in_roi	n_naked_not_in_roi	oddsr	p	p_adj_bf	p_adj_bh
+0	p_reg	flexible_pattern	5960	946	64	5896	882	127925	1.574379186319485	0.0010661861902287375	0.0010661861902287375	0.0010661861902287375

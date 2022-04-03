@@ -1,0 +1,21 @@
+ptm	variable	value	is_p
+p	Short IDR	946	phospho
+p_reg	Short IDR	64	phospho
+p_functional_0	Short IDR	599	phospho
+p_functional_5	Short IDR	81	phospho
+ub	Short IDR	415	other
+sm	Short IDR	32	other
+ac	Short IDR	62	other
+m	Short IDR	41	other
+ga	Short IDR	28	other
+gl	Short IDR	0	other
+p	5 AA extension	616	phospho
+p_reg	5 AA extension	61	phospho
+p_functional_0	5 AA extension	340	phospho
+p_functional_5	5 AA extension	63	phospho
+ub	5 AA extension	483	other
+sm	5 AA extension	11	other
+ac	5 AA extension	56	other
+m	5 AA extension	12	other
+ga	5 AA extension	5	other
+gl	5 AA extension	1	other

@@ -1,0 +1,324 @@
+Akt kinase substrate motif	"R,X,R,X,X"	ST	FL
+Akt kinase substrate motif	"R,X,R,X,X"	ST	
+Akt kinase substrate motif	"G,R,A,R,T,ST"	S	FAE
+Akt kinase substrate motif	"RQK,RKNQPH,RK,RST,NKQHDP"	S	"FWIMNS,STH,RSK,STPQ"
+Akt kinase substrate motif	"RK,X,RK,ST,X"	S	
+AMP-activated protein kinase substrate motif	"MVLIF,RKH,X,X,X"	ST	"X,X,X,MVLIF"
+AMP-activated protein kinase substrate motif	"MVLI,X,X,RKH,X"	ST	"X,X,X,MVLI"
+AMP-activated protein kinase substrate motif	"MVLIF,RKH,X,X"	ST	"X,X,X,MVLIF"
+AMP-activated protein kinase 2 substrate motif	"RK,X,R,X,X"	S	"X,X,X,RK"
+ATM kinase substrate motif	"PLIM,X,LIDE"	S	Q
+ATM kinase substrate motif	L	S	"Q,E"
+ATM kinase substrate motif		S	Q
+Aurora-A kinase substrate motif	"RKN,R,X"	ST	MLVI
+b-Adrenergic Receptor kinase substrate motif	DE	ST	"X,X,X"
+Branched chain alpha-ketoacid dehydrogenase kinase substrate motif	H	S	"T,S,D,D"
+Branched chain alpha-ketoacid dehydrogenase kinase substrate motif	"Y,R"	S	"V,D,E"
+Calmodulin-dependent protein kinase I substrate motif	"MVLIF,X,R,X,X"	ST	"X,X,X,MVLIF"
+Calmodulin-dependent protein kinase II alpha substrate motif	"MILVFY,X,R,X,X"	ST	MILVFY
+Calmodulin-dependent protein kinase II substrate motif	"R,X,X"	ST	
+Calmodulin-dependent protein kinase II substrate motif	"KF,RK,QM,QMKLF"	S	"FIMLV,DEI,LMKI,FK"
+Calmodulin-dependent protein kinase II substrate motif	"MVLIF,X,RK,X,X"	ST	"X,X"
+Calmodulin-dependent protein kinase II substrate motif	"R,X,X"	S	
+Calmodulin-dependent protein kinase IV substrate motif	"V,P,G,K,A,R,K,K"	S	"S,C,Q,L,L"
+Calmodulin-dependent protein kinase IV substrate motif	"P,L,A,R,T,L"	S	"V,A,G,L,P"
+Calmodulin-dependent protein kinase IV substrate motif	"MILVFY,X,R,X,X"	ST	
+Casein kinase I delta substrate motif	"E,FE,D,TAG,G"	S	"I,IFYG,IGF,FG,FPL"
+Casein kinase I gamma substrate motif	"Y,YE,DY,AD,AG"	S	"I,IYFG,IGF,FG,FPL"
+Casein kinase I substrate motif	"DE,X,X"	ST	
+Casein kinase II substrate motif	"EDA,DE,ED,ED"	S	"EDA,DEA,ED,ED"
+Casein kinase II substrate motif		S	"X,EST"
+Casein kinase II substrate motif		S	"X,X,EST"
+Casein kinase II substrate motif		ST	"X,X,ED"
+Casein kinase II substrate motif		S	"D,X,E"
+Casein kinase II substrate motif		S	"X,X,ED"
+Casein kinase II substrate motif		S	"DE,X,DE,X,DE"
+Casein kinase II substrate motif	DE	S	"DE,X,DE"
+Casein kinase II substrate motif		S	"DE,DE,DE"
+Casein kinase II substrate motif		ST	"X,X,DE"
+Casein kinase II substrate motif		ST	"X,X,EDSY"
+Casein kinase II substrate motif	"SEPG,DSNEP,EDGQW,YEDSWT,WED"	S	"DE,DEWN,ED,EDNQ"
+Cdc2 kinase substrate motif	RK	S	"P,RP,RKH"
+Cdc2 kinase substrate motif		ST	"P,X,RK"
+Cdc2 kinase substrate motif	"H,H,H,RK"	S	"P,R,RK,R"
+Cdc2 like protein kinase substrate motif	"P,X"	ST	"P,K,K,X,K,K"
+"CDK1,2,4,6 kinase substrate motif"		ST	"P,X,RK"
+CDK kinase substrate motif		S	"P,X,RK,X"
+CDK4 kinase substrate motif	"P,L"	ST	"P,I,P,KRH"
+CDK4 kinase substrate motif	"P,L"	ST	"P,X,KRH"
+CDK5 kinase substrate motif		T	"P,X,K"
+CDK5 kinase substrate motif	"KHG,H,HP,KGH"	S	"P,RK,HRK,RHK"
+CDK5 kinase substrate motif	"ST,P,G"	ST	"P,G,T,P"
+Chk1 kinase substrate motif	"MILV,X,RK,X,X"	ST	
+CLK1 kinase substrate motif	"R,X,X"	ST	"X,X,R"
+"CLK1,2 kinase substrate motif"	"RK,X,RK,X,RK,X"	S	"X,X,R"
+CLK2 kinase substrate motif	"R,RH,RH,RE,R,E,RH"	S	"R,RD,L"
+DMPK1 kinase substrate motif	"K,K,X,R,R"	T	"LV,X"
+DMPK1 kinase substrate motif	"K,K,R,X,R"	T	"LV,X"
+DMPK1 kinase substrate motif	"RK,X,R,R,X"	ST	"LV,X"
+"DMPK1,2 kinase substrate motif"	"R,X,X"	ST	"LV,R"
+DNA dependent Protein kinase substrate motif	X	S	Q
+DNA dependent Protein kinase substrate motif	P	ST	X
+DOA/CDC-like kinase 2 substrate motif	"R,RK,R,ER,R,EA,HR"	S	"R,R,RD,LE"
+Doublecortin kinase-1 kinase substrate motif	"ILVFM,R,R,X,X"	ST	ILMVF
+elF2 alpha kinase substrate motif	"E,X"	S	"X,R,X,X,R"
+ERK1 kinase substrate motif	"TPS,GPEY,PLI,LMP"	S	"P,GPF,PFGY,FYI"
+ERK1 kinase substrate motif		T	"E,Y"
+"ERK1,2 kinase substrate motif"	"P,X"	ST	"P,P"
+"ERK1,2 kinase substrate motif"	"X,X,P,X"	ST	"P,P,P,X"
+"ERK1,2 kinase substrate motif"	"P,X"	ST	P
+"ERK1,2 kinase substrate motif"		S	P
+"ERK1, ERK2, SAPK, CDK5 and GSK3 kinase substrate motif"	K	S	"P,P"
+ERK2 kinase substrate motif	"DYWE,C,PSCE,PCSLTV,LMT"	S	"PA,TSGRCF,WPS,WF"
+G protein-coupled receptor kinase 1 substrate motif	"X,X"	ST	E
+G protein-coupled receptor kinase 1 substrate motif	X	ST	"X,X,X,APST"
+Growth associated histone HI kinase substrate motif	ST	ST	"P,X,KR"
+Growth associated histone HI kinase substrate motif	KR	ST	P
+Growth associated histone HI kinase substrate motif		ST	"P,KR"
+GSK3 kinase substrate motif		S	"X,X,X,S"
+"GSK3, Erk1, Erk2 and CDK5 kinase motif"	"P,X"	T	P
+"GSK-3, ERK1, ERK2, CDK5 substrate motif"	"R,X,X"	S	"P,V"
+"GSK-3, ERK1, ERK2, CDK5 substrate motif"	K	ST	"P,X,K"
+"GSK-3, ERK1, ERK2, CDK5 substrate motif"	K	S	"P,X,X,X,K"
+"GSK-3, ERK1, ERK2, CDK5 substrate motif"	K	S	"P,X,X,K"
+"GSK-3, ERK1, ERK2, CDK5 substrate motif"	K	S	"P,X,X,X,X,K"
+"GSK-3, ERK1, ERK2, CDK5 substrate motif"	K	T	"P,A,K,E,E"
+"GSK-3, ERK1, ERK2, CDK5 substrate motif"	"P,X"	S	P
+"GSK-3, ERK1, ERK2, CDK5 substrate motif"	X	ST	P
+"GSK-3, ERK1, ERK2, CDK5 substrate motif"	"X,X"	S	P
+HMGCoA Reductase kinase substrate motif	"MLVIF,RKH,X,X"	S	"X,X,X,MLVIF"
+JNK1 kinase substrate motif	"G,P,QM"	S	"P,I"
+LKB1 kinase substrate motif	"L,R"	T	
+MAPKAPK1 kinase substrate motif	"RK,X,R,X,X"	S	
+MAPKAPK1 kinase substrate motif	"R,R,R,X"	S	
+MAPKAPK2 kinase substrate motif	"LFI,X,X,X,R,QST,L"	ST	MLIV
+MAPKAPK2 kinase substrate motif	"X,X,ND,X,R,X,X"	S	"X,X"
+MAPKAPK2 kinase substrate motif	"S,X,X,X"	ST	
+"MAPK 11,13,14 kinase substrate motif"		T	"GPE,Y"
+MEKK kinase substrate motif	"R,R,F,G"	S	"ND,R,R,F"
+MEKK kinase substrate motif	"R,R,F,G"	S	"MLVIF,R,R,MLVIF"
+MLCK kinase substrate motif	"K,K,R,X,X"	S	"X,RK,RK"
+mTOR kinase substrate motif	F	T	Y
+Nek 2 kinase substrate motif	"I,R,R,L"	S	"T,R,R,R"
+NIMA kinase substrate motif	"RN,FLM,RK,RK"	S	"RIVM,RIMV,MIFV,IFM"
+NIMA kinase substrate motif	"F,R,X"	ST	
+NIMA kinase substrate motif	"R,F,RK,RK"	S	"RI,RI,M,I"
+p70 Ribosomal S6 kinase substrate motif	"RK,X,R,X,X"	ST	MLVI
+p70 Ribosomal S6 kinase substrate motif	"V,F,L,G,F"	T	"Y,V,A,P"
+PAK1 kinase substrate motif	"A,K,R,R,R,L,S,S"	S	"L,R,A"
+PAK1 kinase substrate motif	"V,R,K,R"	T	"L,R,R,L"
+PAK2 kinase substrate motif	"RK,RX,X"	ST	
+PDK1 kinase substrate motif	"F,X,X,F"	ST	FY
+Phosphorylase kinase substrate motif	"K,R,K,Q,I"	S	"V,R"
+Phosphorylase kinase substrate motif	"FMK,RK,MRQF,MFLI,S"	S	"FIML,FRK,LI,FLI"
+Phosphorylase kinase substrate motif	"KR,X,X"	S	VI
+Pim1 kinase substrate sequence	"RK,RK,RK,X"	ST	X
+Pim2 kinase substrate sequence	"RK,RKAQP,RK,RQHNY,PHK"	S	"GST,PSGQHST,SPQGD,TSPG"
+PKA kinase substrate motif	"R,R,X"	S	MILVFY
+PKA kinase substrate motif	"R,X"	S	
+PKA kinase substrate motif	"K,R,X,X"	S	
+PKA kinase substrate motif	"R,X,X"	S	
+PKA kinase substrate motif	"RK,X"	ST	
+PKA kinase substrate motif	"K,X,X"	ST	
+PKA kinase substrate motif	"RK,RK,X"	ST	
+PKA kinase substrate motif	"K,X,X,X"	ST	
+PKA kinase substrate motif		ST	"X,RK"
+PKA kinase substrate motif	"R,R,R,R"	S	"I,I,F,I"
+PKA kinase substrate motif	"R,R,X"	S	
+PKA kinase substrate motif	"R,RK,X"	ST	"ILVFY,DCX,X,D"
+PKA kinase substrate motif	"R,R,X"	S	
+PKA kinase substrate motif	"R,R,R,RN"	S	"I,I,FD"
+PKA kinase substrate motif	"RCPK,RAP,RK,RKS,NLSMP"	S	"ILVC,SPHQ,SWQ,SLG"
+"PKA, PKG kinase substrate motif"	"R,RK,X"	ST	ND
+PKC alpha kinase substrate motif	"A,R,K,G"	S	"L,R,Q"
+PKC alpha kinase substrate motif	"R,RF,R,R,RK,G"	S	"F,RK,RK"
+PKC beta kinase substrate motif	"LRF,RK,R,KQ,G"	S	"FM,K,K,X,A"
+PKC delta kinase substrate motif	"R,X,R,K,G"	S	F
+PKC epsilon kinase substrate motif	"K,R,Q,G"	S	"V,R,R"
+PKC epsilon kinase substrate motif	"R,KER,X"	S	
+PKC eta kinase substrate motif	"A,R,X,X,R,RK,R"	S	"F,R,R"
+PKC family kinase substrate motif	"F,X,X,F,ST"	ST	FY
+PKC gamma kinase substrate motif	"R,R,R,K,GK"	S	"F,RK,RK,K,A"
+PKC kinase substrate motif	"X,R,X,X"	S	"X,R,X"
+PKC kinase substrate motif		ST	"X,RK"
+PKC kinase substrate motif	"RK,X,X"	ST	
+PKC kinase substrate motif	"RK,X,X"	ST	"X,RK"
+PKC kinase substrate motif	"KR,X"	ST	
+PKC kinase substrate motif	"RK,X"	ST	"X,RK"
+PKC mu kinase substrate motif	"LV,VLA,R,QKE,M"	S	
+PKC theta kinase substrate motif	"RFWM,WAKS,RSKH,RHSQ,RKNPGQ"	S	"IFRVKSLM,KMRST,RSKW,RKG"
+PKC zeta kinase substrate motif	"F,X,R,X,X"	S	"FM,FM"
+PKD kinase substrate motif	"LVI,RKQ,RK,RKTQM,NKRLMH"	S	"FWIMLV,SN,RSPYW,SRNL"
+PKG kinase substrate motif	"R,RK,X"	ST	ND
+PKR kinase substrate motif	"R,X,X"	ST	"X,R,X,X,R"
+Plk1 kinase substrate motif	"DE,X"	ST	"ILVM,X,DE"
+Pyruvate dehydrogenase kinase substrate motif	X	S	"X,X,D,X,X"
+RAF1 kinase substrate motif	"P,L"	T	"L,P"
+RAF1 kinase substrate motif	"P,L,L"	T	P
+RAF1 kinase substrate motif	"P,L"	T	P
+RAF1 kinase substrate motif	P	T	"L,P"
+RAF1 kinase substrate motif	"P,L"	T	"L,P"
+RAF1 kinase substrate motif	P	T	"L,P"
+RAF1 kinase substrate motif	L	T	P
+TGF beta receptor kinase substrate motif	"K,K,K,K,K,K"	ST	"X,X,X"
+TGF beta receptor kinase substrate motif	"RKQN,MCW,RTSN,EDSN,RKEDN"	S	"SDE,SD,RN,NHSRC"
+ZIP kinase substrate motif	"R,R,X,X"	S	
+ZIP kinase substrate motif	"K,R,X,R"	S	
+ZIP kinase substrate motif	"K,R,R,X"	T	
+Dual specificity protein phosphatase 1 substrate motif		T	"E,Y"
+Dual specificity protein phosphatase 6 substrate motif		T	"X,Y"
+"PP2A, PP2C substrate motif"	"R,R,A"	ST	"V,A"
+PP2B substrate motif	"X,R,X,X"	S	"V,A"
+PP2C delta substrate motif	X	T	"X,Y,X"
+14-3-3 domain binding motif	"K,C,S"	T	"W,P"
+14-3-3 domain binding motif	"R,X,X"	S	
+14-3-3 domain binding motif	"R,X,R,X,X"	S	"X,P"
+14-3-3 domain binding motif	Y	T	V
+14-3-3 domain binding motif	"R,S,X"	ST	"X,P"
+14-3-3 domain binding motif	"R,X,YF,X"	S	"X,P"
+14-3-3 domain binding motif	"R,P,V,S,S,A,A"	S	"V,Y"
+BARD1 BRCT domain binding motif		S	"DE,DE,E"
+Beta-TrCP1 domain binding motif	"D,S,G,X,X"	S	
+BRCA1 BRCT domain binding motif		S	"FYH,VFY,FY"
+CDC4 WD40 domain binding motif	"IL,ILP"	T	"P,RK"
+Chk2 FHA domain binding motif	"H,F,D"	T	"Y,L,I"
+FHA domain binding motif	"RDH,LY,LM,KA"	T	"QLMEV,KLIR"
+MDC1 BRCT domain binding motif	S	ST	X
+Plk1 PBD domain binding motif	S	ST	X
+RAD9 BRCT domain binding motif		S	"Y,I,I"
+WW domain binding motif		ST	P
+Abl kinase substrate motif		Y	"M,X,M"
+Abl kinase substrate motif	"E,D,A,I"	Y	
+Abl kinase substrate motif	"X,V,I"	Y	"A,A,P,F"
+Abl kinase substrate motif	"E,A,I"	Y	"A,A,P,F"
+Abl kinase substrate motif	"E,E,I,Y,E,E"	Y	
+Abl kinase substrate motif	"E,E,I"	Y	"E,E,Y"
+Abl kinase substrate motif	"E,X,I"	Y	"X,X,P,X"
+Abl kinase substrate motif	"E,E,I"	Y	"Y,Y,V,H"
+Abl kinase substrate motif	"E,R,I"	Y	"A,R,T,K"
+Abl kinase substrate motif	"A,E,V,IVLF"	Y	"A,A,PF,F"
+ALK kinase substrate motif		Y	"X,X,Y,Y"
+ALK kinase substrate motif		Y	"DE,X,ILVM"
+ALK kinase substrate motif	"DE,X,X"	Y	
+ALK kinase substrate motif		Y	"X,X,X,X,FY"
+CSK kinase substrate motif	"E,E,DE,I"	Y	"F,F,F,F"
+CSK kinase substrate motif	"X,X,X,I"	Y	"MIF,F,F,F"
+EGFR kinase substrate motif	"E,E,E,E"	Y	"F,E,L,V"
+EGFR kinase substrate motif	"EDRA,DE,DE,EDI"	Y	"FVIE,EFD,LIFV,V"
+EGFR kinase substrate motif	"X,DE"	Y	X
+EGFR kinase substrate motif		Y	"I,P,P"
+EGFR kinase substrate motif	"X,DE"	Y	ILV
+Fes kinase substrate motif	"E,E,E,I"	Y	"E,E,I,E"
+Fes kinase substrate motif	"EAD,EA,EA,IEV"	Y	"DE,DE,IVE,EIV"
+FGFR kinase substrate motif	"E,E,E"	Y	"F,F,L,F"
+FGFR kinase substrate motif	"A,EA,E,E"	Y	"FV,F,LFMIV,F"
+Fgr kinase substrate motif	"M,E,EN,IV"	Y	"GE,I,F,F"
+IGF1 receptor kinase substrate motif	"K,K,K,S,P,G,E"	Y	"V,N,I,E,F,G"
+Insulin receptor kinase substrate motif		Y	"M,X,M"
+Insulin receptor kinase substrate motif	"E,E,END"	Y	"MF,MF,MFIE,MF"
+Insulin receptor kinase substrate motif	"X,E,E,E"	Y	"M,M,M,M"
+Insulin receptor kinase substrate motif	"K,K,S,R,G,D"	Y	"M,T,M,Q,I,G"
+Insulin receptor kinase substrate motif	"K,K,K,L,P,A,T,G,D"	Y	"M,N,M,S,P,V,G,D"
+JAK2 kinase substrate motif		Y	"X,X,LIV"
+JNK kinase substrate motif	"T,P"	Y	
+Lck kinase substrate motif	"X,E,X,I"	Y	"G,V,L,F"
+Lck kinase substrate motif	"E,X,IVLF"	Y	"GA,V,LVFI,FLVI"
+Lyn kinase substrate motif	"D,E,E,I"	Y	"EG,E,L,X"
+Lyn kinase substrate motif	"DE,X,X,X,X,X,X,X,DE,X,X"	Y	"X,X,L,X,X,X,X,X,X,X,Y,X,X,LI"
+PDGFR kinase substrate motif	"E,E,E,E"	Y	"V,F,I,X"
+PDGFR kinase substrate motif	"LN,RI,T"	Y	
+PDGFR kinase substrate motif	"DE,DE,DE,DE"	Y	"VEI,F,IVF"
+Src family kinase substrate motif	"DE,X,X,X,X,X,X,X,DE,X,X"	Y	"X,X,L,X,X,X,X,X,X,X,Y,X,X,LI"
+Src family kinase substrate motif	"IVLS,X"	Y	"X,X,LI"
+Src kinase substrate motif		Y	"M,X,M"
+Src kinase substrate motif	"Y,I"	Y	"G,S,F,K"
+Src kinase substrate motif	"E,E,E,I"	Y	"GE,E,F,D"
+Src kinase substrate motif	"D,DE,EDG,IVL"	Y	"GE,E,FI,F"
+Src kinase substrate motif	"DE,X,X,X,X,X,X,X,DE,X,X"	Y	"X,X,L,X,X,X,X,X,X,X,Y,X,X,LI"
+Src kinase substrate motif	"DE,DE,EDG,IVL"	Y	"GED,E,FILV,DE"
+Src kinase substrate motif		Y	AGSTDE
+Syk kinase substrate motif	"EDTY,X"	Y	"E,E"
+PTP1B phosphatase substrate motif	"DE,Y"	Y	RK
+PTP1B phosphatase substrate motif	DE	Y	"Y,RK"
+PTP1B phosphatase substrate motif	"E,F"	Y	"GA,T,Y,GA"
+PTP1B phosphatase substrate motif	"E,YFD"	Y	M
+PTP1B phosphatase substrate motif	"EP,MLIVF"	Y	"GA,X,MLIVFY,A"
+PTP1B phosphatase substrate motif	"R,D,X,Y,X,T,D,Y"	Y	R
+PTP1B phosphatase substrate motif	"E,FDY"	Y	
+"PTP1B, TC-PTP phosphatase substrate motif"	"D,Y"	Y	R
+"PTP1B, TC-PTP phosphatase substrate motif"	D	Y	"Y,R"
+PTPRH phosphatase substrate motif	"DE,F"	Y	"GA,FY,AG"
+PTPRJ phosphatase substrate motif	"F,MLVI"	Y	
+SHP1 phosphatase substrate motif	"DE,X,LIV,X"	Y	"X,X,LIV"
+SHP1 phosphatase substrate motif	"DE,X,LIV,X,X"	Y	"X,X,LIV"
+SHP1 phosphatase substrate motif	"DE,DE,DE,L,X"	Y	"X,X,FMLVI,DE"
+SHP1 phosphatase substrate motif	"DE,X"	Y	
+SHP1 phosphatase substrate motif	"EP,FIL,Y"	Y	"A,X,FILV"
+SHP2 phosphatase substrate motif		Y	"I,D,L"
+SHP2 phosphatase substrate motif		Y	"A,S,I"
+SHP2 phosphatase substrate motif	"E,F"	Y	"A,X,VI,G,RKH,S"
+TC-PTP phosphatase substrate motif	"DE,DE,X,X,X"	Y	"V,A"
+TC-PTP phosphatase substrate motif	EDY	Y	
+3BP2 SH2 domain binding motif		Y	"EMV,NVI"
+Abl SH2 domain binding motif		Y	"E,N,P"
+Crk SH2 domain binding motif		Y	"X,X,P"
+Crk SH2 domain binding motif		Y	"D,H,P"
+Csk SH2 domain binding motif		Y	"TAS,KRQN,MIVR"
+Grb2 SH2 domain binding motif		Y	"YIV,N,FLIV"
+Fes SH2 domain binding motif		Y	"E,X,VI"
+Fgr SH2 domain binding motif		Y	"E,E,IV"
+Fyn SH2 domain binding motif		Y	"E,D,P"
+"GRB2, 3BP2, Csk, Fes, Syk C-terminal SH2 domain binding motif"	Y	Y	"MILV,X,MILV"
+Grb2 SH2 domain binding motif		Y	"QYV,N,YQF"
+Grb2 SH2 domain binding motif		Y	"X,N"
+"GRB7, GRB10 SH2 domain binding motif"	FY	Y	"ETYS,N,ILVPTYS"
+HCP SH2 domain binding motif		Y	"F,X,FPLY"
+Itk SH2 domain binding motif		Y	"AEV,YFESNV,PFIH"
+Lck and Src SH2 domain binding motif		Y	"D,Y,V"
+Nck SH2 domain binding motif		Y	"D,E,P"
+PI3 kinase p85 SH2 domain binding motif		Y	"M,X,M"
+PI3 kinase p85 SH2 domain binding motif		Y	"X,X,M"
+PI3 kinase p85 SH2 domain binding motif		Y	"M,P,M,S"
+PLCgamma C and N-terminal SH2 domain binding motif		Y	"LIV,E,LIV"
+RasGAP C-terminal SH2 domain binding motif		Y	"X,X,P"
+RasGAP N-terminal SH2 domain binding motif		Y	"I,L,V,X,MLIVP"
+SAP and EAT2 SH2 domain binding motif	"T,I"	Y	"X,X,VI"
+Sem5 SH2 domain binding motif		Y	"LV,N,VP"
+Shb SH2 domain binding motif		Y	"TVI,X,L"
+SHC SH2 domain binding motif		Y	"IEYL,X,ILM"
+SHIP2 SH2 domain binding motif	"IVLS,X"	Y	"X,X,LI"
+SHP1 C-terminal SH2 domain binding motif	"VIL,X"	Y	"A,X,LV"
+SHP1 C-terminal SH2 domain binding motif	"X,X"	Y	"Y,M,KR"
+SHP1 N-terminal SH2 domain binding motif	"L,YH"	Y	"MF,X,FM"
+SHP1 N-terminal SH2 domain binding motif	"L,X"	Y	"A,X,L"
+SHP1 SH2 domain binding motif	"IV,X"	Y	"X,X,LV"
+"SHP1, SHP2 SH2 domain binding motif"	"VIL,X"	Y	"MLF,X,P"
+SHP2 CSH2 domain binding motif	"TVIY,X"	Y	"ASTV,X,IVL"
+SHP2 C-terminal SH2 domain binding motif	"ILV,ILV,ILVFTY"	Y	"TILV,IL,ILVP"
+SHP2 N-terminal SH2 domain binding motif	"HF,X,V,X,TSA"	Y	
+SHP2 N-terminal SH2 domain binding motif	"IVL,X"	Y	"FM,X,P"
+SHP2 N-terminal SH2 domain binding motif		Y	"IV,X,IV"
+SHP2 N-terminal SH2 domain binding motif	"ILVM,X"	Y	"TVA,X,IVLF"
+SHP2 N-terminal SH2 domain binding motif	"IV,X"	Y	"LMT,Y,APT,S,G"
+SHP2 N-terminal SH2 domain binding motif	"W,MTV"	Y	"YR,IL,X"
+"SHP2, PLCgamma SH2 domain binding motifs"		Y	"I,P,P"
+Src and Abl SH2 domain binding motif		Y	"M,X,M"
+"Src, Fyn, Lck, Fgr, Abl, Crk, Nck SH2 domain binding motif"		Y	"RKHQED,RKHQED,IP"
+"Src, Fyn,Csk, Nck and SHC SH2 domain binding motif"	"P,P,X"	Y	
+"Src,Lck and Fyn SH2 domains binding motif"		Y	"E,E,I"
+STAT1 SH2 domain binding motif		Y	"DE,PR,RPQ"
+STAT3 SH2 domain binding motif		Y	"X,X,Q"
+STAT3 SH2 domain binding motif		Y	"MLVIF,PRKH,Q"
+Syk C-terminal SH2 domain binding motif		Y	"QTE,EQ,LI"
+Syk N-terminal SH2 domain binding motif		Y	"T,T,ILM"
+"Syk, ZAP-70, Shc, Lyn SH2 domain binding motif"	"DE,X,X,X,X,X,X,X,DE,X,X"	Y	"X,X,L,X,X,X,X,X,X,X,Y,X,X,LI"
+Tensin SH2 domain binding motif		Y	"E,N,FIV"
+Vav SH2 domain binding motif		Y	"MLE,E,P"
+Vav SH2 domain binding motif		Y	"E,S,P"
+Cbl PTB domain binding motif	"D,ND,X"	Y	
+Dok1 PTB domain binding motif	"N,X,L"	Y	
+FRIP PTB domain binding motif	"N,X,X"	Y	
+Shc PTB domain binding motif	"N,P,X"	Y	
+Shb PTB domain binding motif	"D,D,X"	Y	
+ShcA PTB domain binding motif	"N,P,X"	Y	"F,X,R"
+ShcC PTB domain binding motif	"H,N,MLVI,MLVIN,N,P,ST"	Y	

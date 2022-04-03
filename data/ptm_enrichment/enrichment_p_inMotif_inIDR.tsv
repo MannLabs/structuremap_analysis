@@ -1,0 +1,4 @@
+quality_cutoff	ptm	roi	n_aa_ptm	n_aa_roi	n_ptm_in_roi	n_ptm_not_in_roi	n_naked_in_roi	n_naked_not_in_roi	oddsr	p	p_adj_bf	p_adj_bh
+0	p	IDR	188583	635982	122170	66413	513812	681563	2.440131538745372	0.0	0.0	0.0
+0	p_reg	IDR	8099	635982	5653	2446	630329	745530	2.733508120206877	0.0	0.0	0.0
+0	p_stukalov	IDR	14187	635982	12884	1303	623098	746673	11.848964287074681	0.0	0.0	0.0
