@@ -139,6 +139,8 @@ data/unformatted_ptm_data/Regulatory_sites
 data/alphafold_data/alphafold_annotation.csv
 data/alphafold_data/half_sphere_exposure.csv
 data/alphafold_data/full_sphere_exposure.csv
+data/unformatted_ptm_data/DiGly_lib_U2OS_MG132_treated.tsv
+data/unformatted_ptm_data/DiGly_lib_U2OS_MG132_untreated.tsv
 
 # Temporary files @fix
 temp_pae
