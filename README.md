@@ -1,7 +1,7 @@
 # Analysis of PTMs in their structural context using the StructureMap and AlphaMap Python packages
 
 This repository contains all data and python notebooks to reproduce the analyses presented in: 
-["The structural context of PTMs at a proteome wide scale" by Bludau et al. (2022)](https://doi.org/10.1101/2022.02.23.481596).
+["The structural context of PTMs at a proteome wide scale" by Bludau et al. (2022)](https://doi.org/10.1371/journal.pbio.3001636).
 
 To set up the analysis, the first step is to run the commands in [setup_environment.sh](https://github.com/MannLabs/structuremap_analysis/blob/master/setup_environment.sh).
 
